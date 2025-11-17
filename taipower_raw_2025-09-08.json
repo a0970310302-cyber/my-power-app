@@ -1,0 +1,777 @@
+{
+  "listAMIBase15MinData": [
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "00:00",
+      "isMssingData": 0,
+      "power": 0.3001,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "00:15",
+      "isMssingData": 0,
+      "power": 0.2929,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "00:30",
+      "isMssingData": 0,
+      "power": 0.2859,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "00:45",
+      "isMssingData": 0,
+      "power": 0.2727,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "01:00",
+      "isMssingData": 0,
+      "power": 0.2579,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "01:15",
+      "isMssingData": 0,
+      "power": 0.2378,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "01:30",
+      "isMssingData": 0,
+      "power": 0.2538,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "01:45",
+      "isMssingData": 0,
+      "power": 0.4797,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "02:00",
+      "isMssingData": 0,
+      "power": 0.2595,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "02:15",
+      "isMssingData": 0,
+      "power": 0.254,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "02:30",
+      "isMssingData": 0,
+      "power": 0.2426,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "02:45",
+      "isMssingData": 0,
+      "power": 0.2515,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "03:00",
+      "isMssingData": 0,
+      "power": 0.2464,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "03:15",
+      "isMssingData": 0,
+      "power": 0.2095,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "03:30",
+      "isMssingData": 0,
+      "power": 0.1982,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "03:45",
+      "isMssingData": 0,
+      "power": 0.1783,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "04:00",
+      "isMssingData": 0,
+      "power": 0.1613,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "04:15",
+      "isMssingData": 0,
+      "power": 0.186,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "04:30",
+      "isMssingData": 0,
+      "power": 0.3736,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "04:45",
+      "isMssingData": 0,
+      "power": 0.3878,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "05:00",
+      "isMssingData": 0,
+      "power": 0.3236,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "05:15",
+      "isMssingData": 0,
+      "power": 0.1733,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "05:30",
+      "isMssingData": 0,
+      "power": 0.1698,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "05:45",
+      "isMssingData": 0,
+      "power": 0.1534,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "06:00",
+      "isMssingData": 0,
+      "power": 0.2092,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "06:15",
+      "isMssingData": 0,
+      "power": 0.1844,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "06:30",
+      "isMssingData": 0,
+      "power": 0.1673,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "06:45",
+      "isMssingData": 0,
+      "power": 0.148,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "07:00",
+      "isMssingData": 0,
+      "power": 0.2582,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "07:15",
+      "isMssingData": 0,
+      "power": 0.2548,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "07:30",
+      "isMssingData": 0,
+      "power": 0.1201,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "07:45",
+      "isMssingData": 0,
+      "power": 0.1492,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "08:00",
+      "isMssingData": 0,
+      "power": 0.1399,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "08:15",
+      "isMssingData": 0,
+      "power": 0.1398,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "08:30",
+      "isMssingData": 0,
+      "power": 0.1456,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "08:45",
+      "isMssingData": 0,
+      "power": 0.1475,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "09:00",
+      "isMssingData": 0,
+      "power": 0.1461,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "09:15",
+      "isMssingData": 0,
+      "power": 0.1512,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "09:30",
+      "isMssingData": 0,
+      "power": 0.0734,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "09:45",
+      "isMssingData": 0,
+      "power": 0.0606,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "10:00",
+      "isMssingData": 0,
+      "power": 0.0902,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "10:15",
+      "isMssingData": 0,
+      "power": 0.0859,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "10:30",
+      "isMssingData": 0,
+      "power": 0.0633,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "10:45",
+      "isMssingData": 0,
+      "power": 0.0623,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "11:00",
+      "isMssingData": 0,
+      "power": 0.0646,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "11:15",
+      "isMssingData": 0,
+      "power": 0.0606,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "11:30",
+      "isMssingData": 0,
+      "power": 0.115,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "11:45",
+      "isMssingData": 0,
+      "power": 0.2377,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "12:00",
+      "isMssingData": 0,
+      "power": 0.2384,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "12:15",
+      "isMssingData": 0,
+      "power": 0.189,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "12:30",
+      "isMssingData": 0,
+      "power": 0.2656,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "12:45",
+      "isMssingData": 0,
+      "power": 0.1001,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "13:00",
+      "isMssingData": 0,
+      "power": 0.0786,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "13:15",
+      "isMssingData": 0,
+      "power": 0.0971,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "13:30",
+      "isMssingData": 0,
+      "power": 0.1121,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "13:45",
+      "isMssingData": 0,
+      "power": 0.0929,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "14:00",
+      "isMssingData": 0,
+      "power": 0.1386,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "14:15",
+      "isMssingData": 0,
+      "power": 0.2533,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "14:30",
+      "isMssingData": 0,
+      "power": 0.0847,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "14:45",
+      "isMssingData": 0,
+      "power": 0.0535,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "15:00",
+      "isMssingData": 0,
+      "power": 0.0512,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "15:15",
+      "isMssingData": 0,
+      "power": 0.0531,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "15:30",
+      "isMssingData": 0,
+      "power": 0.0963,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "15:45",
+      "isMssingData": 0,
+      "power": 0.3261,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "16:00",
+      "isMssingData": 0,
+      "power": 0.2949,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "16:15",
+      "isMssingData": 0,
+      "power": 0.281,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "16:30",
+      "isMssingData": 0,
+      "power": 0.1095,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "16:45",
+      "isMssingData": 0,
+      "power": 0.0793,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "17:00",
+      "isMssingData": 0,
+      "power": 0.0654,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "17:15",
+      "isMssingData": 0,
+      "power": 0.0676,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "17:30",
+      "isMssingData": 0,
+      "power": 0.0944,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "17:45",
+      "isMssingData": 0,
+      "power": 0.1047,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "18:00",
+      "isMssingData": 0,
+      "power": 0.1278,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "18:15",
+      "isMssingData": 0,
+      "power": 0.1483,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "18:30",
+      "isMssingData": 0,
+      "power": 0.154,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "18:45",
+      "isMssingData": 0,
+      "power": 0.3731,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "19:00",
+      "isMssingData": 0,
+      "power": 0.1356,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "19:15",
+      "isMssingData": 0,
+      "power": 0.0635,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "19:30",
+      "isMssingData": 0,
+      "power": 0.0384,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "19:45",
+      "isMssingData": 0,
+      "power": 0.046,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "20:00",
+      "isMssingData": 0,
+      "power": 0.0545,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "20:15",
+      "isMssingData": 0,
+      "power": 0.0506,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "20:30",
+      "isMssingData": 0,
+      "power": 0.0496,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "20:45",
+      "isMssingData": 0,
+      "power": 0.0496,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "21:00",
+      "isMssingData": 0,
+      "power": 0.0492,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "21:15",
+      "isMssingData": 0,
+      "power": 0.0705,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "21:30",
+      "isMssingData": 0,
+      "power": 0.0807,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "21:45",
+      "isMssingData": 0,
+      "power": 0.0755,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "22:00",
+      "isMssingData": 0,
+      "power": 0.0535,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "22:15",
+      "isMssingData": 0,
+      "power": 0.2944,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "22:30",
+      "isMssingData": 0,
+      "power": 0.4946,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "22:45",
+      "isMssingData": 0,
+      "power": 0.392,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "23:00",
+      "isMssingData": 0,
+      "power": 0.2384,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "23:15",
+      "isMssingData": 0,
+      "power": 0.2985,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "23:30",
+      "isMssingData": 0,
+      "power": 0.3039,
+      "contractpower": null
+    },
+    {
+      "custNo": "06408563104",
+      "lineColor": "#FF3333",
+      "time": "23:45",
+      "isMssingData": 0,
+      "power": 0.2954,
+      "contractpower": null
+    }
+  ],
+  "listAMIBase4PeriodData": [],
+  "listAMISumData": null,
+  "msgCode": "AMI0000",
+  "message": "取得成功 ",
+  "custNo": "06408563104"
+}
